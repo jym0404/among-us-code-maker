@@ -1,2 +1,2 @@
-# among-us-code-maker
+# why i made this?
 among us code maker
